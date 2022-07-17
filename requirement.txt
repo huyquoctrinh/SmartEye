@@ -1,0 +1,11 @@
+Flask
+tensorflow==2.8.0
+keras==2.8.0
+jsonpickle
+opencv-python
+numpy==1.18.0
+pydot
+Pillow
+nltk
+progressbar2
+h5py

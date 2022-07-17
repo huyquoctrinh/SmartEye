@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "7d9498ca-befd-4977-ba00-531623ae81e0",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17595000"
+	},
+	"item": [
+		{
+			"name": "captioning",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "img_file",
+							"type": "file",
+							"src": "/C:/Users/MININT-E14G2KL-local/Pictures/Camera Roll/WIN_20220620_13_48_58_Pro.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://54.212.173.26:80/caption",
+					"protocol": "http",
+					"host": [
+						"54",
+						"212",
+						"173",
+						"26"
+					],
+					"port": "80",
+					"path": [
+						"caption"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
