@@ -39,5 +39,15 @@ OCR server:
 ```bash
 sudo python3 server.py
 ```
+The server will run on the port 80, let deploy on 2 different instance and setup nginx with uwsgi for proxy server.
+
+# App demo
+
+Our app demo is written by React-native, all of the implementation can be seen on the following link [Github](https://github.com/sonhv3112/SmartEye)
+
+# Contribution
+
+All of the model, architecture was implemented by No Name team, thanks to all for the great IT hackathon 2022 !!! :drooling_face: :drooling_face: :drooling_face:
+
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
