@@ -8,6 +8,11 @@ We use [Flickr](https://shannon.cs.illinois.edu/DenotationGraph/) 30k images for
 We build the model with VGG16 the attention model, our model is based on the idea
 of [CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf).
 
+## Training
+Use ```train_model.py ``` to train the model.
+
+We train the model on NVIDIA Tesla T4 GPU and takes 9 hours for train 30 epochs and get the momment evaluation. 
+
 ## Evaluation 
 Below is our evaluation:
 
