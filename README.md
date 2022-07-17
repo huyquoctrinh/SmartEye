@@ -1,5 +1,5 @@
 # Introduction
-Smart App for Visually Impaired of No name team in IT hackathon.
+Smart App for Visually Impaired of No name team in IT hackathon :clown_face: :clown_face:
 
 ## Data
 We use [Flickr](https://shannon.cs.illinois.edu/DenotationGraph/) 30k images for training the model .
