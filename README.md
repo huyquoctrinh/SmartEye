@@ -22,6 +22,9 @@ All package to run the server in the ```requirement.txt``` , run the following c
 ``` bash
   pip install -r requirement.txt
 ```
+## System architecture
+
+On AWS, we set up the Auto Scaling group with the following architecture to help scale the product. Moreover, we need to setup the Message Broker 
 
 ## Run Server
 
