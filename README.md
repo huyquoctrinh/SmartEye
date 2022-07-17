@@ -27,7 +27,7 @@ All package to run the server in the ```requirement.txt``` , run the following c
 On AWS, we set up the Auto Scaling group with the following architecture to help scale the product. Moreover, we need to setup the Message Broker base Redis to help
 scaling with the large number of concurrent user.
 
-![alt text]([https://github.com/huyquoctrinh/Linear-Regression/blob/updateFull/asset/distribution_3d.png](https://github.com/huyquoctrinh/SmartEye/blob/main/sv.png))
+![alt text](https://github.com/huyquoctrinh/SmartEye/blob/main/sv.png)
 
 We hope this architecture can help everyone in deploy their model. More information can follow on [AWS](https://aws.amazon.com/autoscaling/).
 
