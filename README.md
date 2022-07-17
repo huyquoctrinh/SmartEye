@@ -17,10 +17,10 @@ BLEU  | 0.71
 CrossentropyLoss  | 0.38
 
 ## Packages
-All package to run the server in the ```requirements.txt``` , run the following command to install.
+All package to run the server in the ```requirement.txt``` , run the following command to install.
 
 ``` bash
-  pip install -r requirements.txt
+  pip install -r requirement.txt
 ```
 
 ## Run Server
